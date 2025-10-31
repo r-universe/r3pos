@@ -5,6 +5,3 @@
 [submodule "ShinyWizard"]
 	path = ShinyWizard
 	url = https://github.com/cran/ShinyWizard
-[submodule "testthatdocs"]
-	path = testthatdocs
-	url = https://github.com/cran/testthatdocs
